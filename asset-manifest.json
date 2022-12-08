@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Third-React-app/static/css/main.9994ccb7.css",
-    "main.js": "/Third-React-app/static/js/main.06f781b5.js",
-    "static/js/787.b842ecb7.chunk.js": "/Third-React-app/static/js/787.b842ecb7.chunk.js",
-    "index.html": "/Third-React-app/index.html",
-    "main.9994ccb7.css.map": "/Third-React-app/static/css/main.9994ccb7.css.map",
-    "main.06f781b5.js.map": "/Third-React-app/static/js/main.06f781b5.js.map",
-    "787.b842ecb7.chunk.js.map": "/Third-React-app/static/js/787.b842ecb7.chunk.js.map"
+    "main.css": "/Third-React-App/static/css/main.9994ccb7.css",
+    "main.js": "/Third-React-App/static/js/main.d4e2c392.js",
+    "static/js/787.b842ecb7.chunk.js": "/Third-React-App/static/js/787.b842ecb7.chunk.js",
+    "index.html": "/Third-React-App/index.html",
+    "main.9994ccb7.css.map": "/Third-React-App/static/css/main.9994ccb7.css.map",
+    "main.d4e2c392.js.map": "/Third-React-App/static/js/main.d4e2c392.js.map",
+    "787.b842ecb7.chunk.js.map": "/Third-React-App/static/js/787.b842ecb7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9994ccb7.css",
-    "static/js/main.06f781b5.js"
+    "static/js/main.d4e2c392.js"
   ]
 }
