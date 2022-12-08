@@ -53,7 +53,7 @@ arr=[
 
 ]
 for(let i=0;i<cardAmount;i++){
-      arr[i].src=`Third-React-App/images/cardimg/${i+1}.jpg`;
+      arr[i].src=`${process.env.PUBLIC_URL}/images/cardimg/${i+1}.jpg`;
       arr[i].id=i;
       arr[i].date=new Date().toLocaleDateString();
 }
